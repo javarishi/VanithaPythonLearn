@@ -1,0 +1,1 @@
+print("This will be called everytime someone includes this package")
